@@ -3,7 +3,7 @@
 ## 🧘‍♀️ Parte 1: Reflexión  
 Durante la actividad física, el cuerpo se sintió **más activo y menos rígido** � (especialmente después de horas de código). Noté que:  
 - 🧠 **El enfoque mejoró** un 20-30% post-ejercicio.  
-- 📉 **La fatiga aparece** tras 2h sentad@ (tensión en cuello/hombros).  
+- 📉 **La fatiga aparece** tras 2h sentado (tensión en cuello/hombros).  
 - 🌤️ **Soluciones rápidas**: Estiramientos cada 50min o caminatas cortas entre tareas.  
 
 ---  
